@@ -71,7 +71,7 @@
 }
 #Home::before{
     content: "";
-    background:url('../bg.jpg') no-repeat center center/cover;
+    background:url('../images/bg.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -89,7 +89,7 @@
 #services{
     content: "";
     justify-content: center;
-    background: url(../bag1.jpg) no-repeat center center/cover;
+    background: url(../images/bag1.jpg) no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -125,7 +125,7 @@
 #clientsection::before{
    content: "";
    position: absolute;
-   background:url(../bg3.jpg) no-repeat center center/cover;
+   background:url(../images/bg3.jpg) no-repeat center center/cover;
    width:100%;
    height: 100%;
    z-index: -1;
@@ -150,7 +150,7 @@
 #contactsection::before{
     content: "";
     position: absolute;
-    background:url(../contact.jpg)no-repeat center center/cover;
+    background:url(../images/contact.jpg)no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
