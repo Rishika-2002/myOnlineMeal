@@ -1,0 +1,31 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+/* home section*/
+#Home{
+    height: 280px;
+
+}
+/* home section*/
+#Home::before{
+    height: 450px;
+
+    overflow: hidden;
+}
+/* services section */
+#services{
+    flex-direction: column;
+
+}
+/* client section */
+#clients{
+
+    overflow: hidden;
+}
+/* contact  section*/
+
+.h-primary{
+    padding-bottom: 1px;
+}
+/* footer */
